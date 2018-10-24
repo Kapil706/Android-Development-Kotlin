@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\kapil\StudioProjects\Android-Development-Kotlin\MyKotlinApp\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\kapil\StudioProjects\Android-Development-Kotlin\MyKotlinApp\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\kapil\StudioProjects\Android-Development-Kotlin\MyKotlinApp\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\kapil\StudioProjects\Android-Development-Kotlin\MyKotlinApp\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\1cf5922e627f3b8d4b86efa69b6700ac\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\5f820fde64f10458848354a451042f7f\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\ece2af944caf80f8bae4d16de260b929\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\86a2c3f9031735de9d7d3d567e27c2a9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\504cbeba82daf328fac8141b1ecb2106\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\743f6e4c3ccb39d57141c67e8000fb96\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\fd1e46393fe9e44af8312a0570b1c78a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\aff832d5186ad475a17443fd639e72ad\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\2865ad3406c6a9c00798df90e9d2cb6c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\37708db1814b84891cdcae322aa78e29\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\15d9d7540cee3f60f4c446e00b9cfa10\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\4dc684c8caeea7ef8bb01e20ca6e0258\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\b1c6808f8175a4d677483357fa647b62\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\b425fcbaa8ce2458f99492ec837a2c64\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\a56b79f0ead1ed91b76b28dc3eea93f1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\c77dd9c58e7d2266af1ad6b82fef5c02\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\329dc690c6bc0f172d0ce8a744cc590e\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\1facc0d60bd6e56333d46effc48c38f0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8f549374ec17a2498ccdc058c1ce8a62\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\03e61278c8394178c009fd895887e17c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\7ec0f4e88fd2869531d6dce6bd46a03c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\022400510c0335055b19675704ad8376\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\2ef6b78964d1e67955469013c829ca47\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\2f747584a0b010276f3a4aa672d1a409\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\d66c5397bc9ee8c82fcb010c0e35d738\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\ba4b83cb8454836fc88451dbf18437d7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\c3077db64e37f00a753504d54c4f9e0b\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\kapil\StudioProjects\Android-Development-Kotlin\MyKotlinApp\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\kapil\StudioProjects\Android-Development-Kotlin\MyKotlinApp\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\kapil\StudioProjects\Android-Development-Kotlin\MyKotlinApp\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\kapil\StudioProjects\Android-Development-Kotlin\MyKotlinApp\app\src\main\AndroidManifest.xml:3:11-50
+		INJECTED from C:\Users\kapil\StudioProjects\Android-Development-Kotlin\MyKotlinApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kapil\StudioProjects\Android-Development-Kotlin\MyKotlinApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\kapil\StudioProjects\Android-Development-Kotlin\MyKotlinApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kapil\StudioProjects\Android-Development-Kotlin\MyKotlinApp\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\kapil\StudioProjects\Android-Development-Kotlin\MyKotlinApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\kapil\StudioProjects\Android-Development-Kotlin\MyKotlinApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kapil\StudioProjects\Android-Development-Kotlin\MyKotlinApp\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\kapil\StudioProjects\Android-Development-Kotlin\MyKotlinApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\kapil\StudioProjects\Android-Development-Kotlin\MyKotlinApp\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\kapil\StudioProjects\Android-Development-Kotlin\MyKotlinApp\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\5f820fde64f10458848354a451042f7f\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\5f820fde64f10458848354a451042f7f\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\c77dd9c58e7d2266af1ad6b82fef5c02\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\c77dd9c58e7d2266af1ad6b82fef5c02\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\329dc690c6bc0f172d0ce8a744cc590e\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\329dc690c6bc0f172d0ce8a744cc590e\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\c77dd9c58e7d2266af1ad6b82fef5c02\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\kapil\StudioProjects\Android-Development-Kotlin\MyKotlinApp\app\src\main\AndroidManifest.xml:10:13-39
+	android:label
+		ADDED from C:\Users\kapil\StudioProjects\Android-Development-Kotlin\MyKotlinApp\app\src\main\AndroidManifest.xml:8:13-45
+	android:roundIcon
+		ADDED from C:\Users\kapil\StudioProjects\Android-Development-Kotlin\MyKotlinApp\app\src\main\AndroidManifest.xml:9:13-58
+	android:icon
+		ADDED from C:\Users\kapil\StudioProjects\Android-Development-Kotlin\MyKotlinApp\app\src\main\AndroidManifest.xml:7:13-47
+	android:allowBackup
+		ADDED from C:\Users\kapil\StudioProjects\Android-Development-Kotlin\MyKotlinApp\app\src\main\AndroidManifest.xml:6:13-39
+	android:theme
+		ADDED from C:\Users\kapil\StudioProjects\Android-Development-Kotlin\MyKotlinApp\app\src\main\AndroidManifest.xml:11:13-44
+activity#com.example.kapil.mykotlinapp.MainActivity
+ADDED from C:\Users\kapil\StudioProjects\Android-Development-Kotlin\MyKotlinApp\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\kapil\StudioProjects\Android-Development-Kotlin\MyKotlinApp\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\kapil\StudioProjects\Android-Development-Kotlin\MyKotlinApp\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\kapil\StudioProjects\Android-Development-Kotlin\MyKotlinApp\app\src\main\AndroidManifest.xml:14:17-68
+	android:name
+		ADDED from C:\Users\kapil\StudioProjects\Android-Development-Kotlin\MyKotlinApp\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\kapil\StudioProjects\Android-Development-Kotlin\MyKotlinApp\app\src\main\AndroidManifest.xml:16:17-76
+	android:name
+		ADDED from C:\Users\kapil\StudioProjects\Android-Development-Kotlin\MyKotlinApp\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\kapil\StudioProjects\Android-Development-Kotlin\MyKotlinApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\kapil\StudioProjects\Android-Development-Kotlin\MyKotlinApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\kapil\StudioProjects\Android-Development-Kotlin\MyKotlinApp\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\1cf5922e627f3b8d4b86efa69b6700ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\1cf5922e627f3b8d4b86efa69b6700ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\5f820fde64f10458848354a451042f7f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\5f820fde64f10458848354a451042f7f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\ece2af944caf80f8bae4d16de260b929\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\ece2af944caf80f8bae4d16de260b929\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\86a2c3f9031735de9d7d3d567e27c2a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\86a2c3f9031735de9d7d3d567e27c2a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\504cbeba82daf328fac8141b1ecb2106\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\504cbeba82daf328fac8141b1ecb2106\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\743f6e4c3ccb39d57141c67e8000fb96\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\743f6e4c3ccb39d57141c67e8000fb96\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\fd1e46393fe9e44af8312a0570b1c78a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\fd1e46393fe9e44af8312a0570b1c78a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\aff832d5186ad475a17443fd639e72ad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\aff832d5186ad475a17443fd639e72ad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\2865ad3406c6a9c00798df90e9d2cb6c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\2865ad3406c6a9c00798df90e9d2cb6c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\37708db1814b84891cdcae322aa78e29\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\37708db1814b84891cdcae322aa78e29\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\15d9d7540cee3f60f4c446e00b9cfa10\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\15d9d7540cee3f60f4c446e00b9cfa10\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\4dc684c8caeea7ef8bb01e20ca6e0258\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\4dc684c8caeea7ef8bb01e20ca6e0258\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\b1c6808f8175a4d677483357fa647b62\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\b1c6808f8175a4d677483357fa647b62\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\b425fcbaa8ce2458f99492ec837a2c64\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\b425fcbaa8ce2458f99492ec837a2c64\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\a56b79f0ead1ed91b76b28dc3eea93f1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\a56b79f0ead1ed91b76b28dc3eea93f1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\c77dd9c58e7d2266af1ad6b82fef5c02\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\c77dd9c58e7d2266af1ad6b82fef5c02\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\329dc690c6bc0f172d0ce8a744cc590e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\329dc690c6bc0f172d0ce8a744cc590e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\1facc0d60bd6e56333d46effc48c38f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\1facc0d60bd6e56333d46effc48c38f0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8f549374ec17a2498ccdc058c1ce8a62\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8f549374ec17a2498ccdc058c1ce8a62\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\03e61278c8394178c009fd895887e17c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\03e61278c8394178c009fd895887e17c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\7ec0f4e88fd2869531d6dce6bd46a03c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\7ec0f4e88fd2869531d6dce6bd46a03c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\022400510c0335055b19675704ad8376\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\022400510c0335055b19675704ad8376\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\2ef6b78964d1e67955469013c829ca47\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\2ef6b78964d1e67955469013c829ca47\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\2f747584a0b010276f3a4aa672d1a409\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\2f747584a0b010276f3a4aa672d1a409\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\d66c5397bc9ee8c82fcb010c0e35d738\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\d66c5397bc9ee8c82fcb010c0e35d738\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\ba4b83cb8454836fc88451dbf18437d7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\ba4b83cb8454836fc88451dbf18437d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\c3077db64e37f00a753504d54c4f9e0b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\kapil\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\c3077db64e37f00a753504d54c4f9e0b\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\kapil\StudioProjects\Android-Development-Kotlin\MyKotlinApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\kapil\StudioProjects\Android-Development-Kotlin\MyKotlinApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\kapil\StudioProjects\Android-Development-Kotlin\MyKotlinApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kapil\StudioProjects\Android-Development-Kotlin\MyKotlinApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kapil\StudioProjects\Android-Development-Kotlin\MyKotlinApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\kapil\StudioProjects\Android-Development-Kotlin\MyKotlinApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kapil\StudioProjects\Android-Development-Kotlin\MyKotlinApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kapil\StudioProjects\Android-Development-Kotlin\MyKotlinApp\app\src\main\AndroidManifest.xml
